@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'Baskerville';
+	src: url(../fonts/Baskerville.ttc);
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -9,9 +14,4 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
-}
-
-@font-face {
-	font-family: 'Baskerville';
-	src: url(../fonts/Baskerville.ttc);
 }
